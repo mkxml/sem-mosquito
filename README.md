@@ -4,7 +4,7 @@ Extensão simples que retira os mosquitos nos sites .gov do Brasil.
 
 [Download da versão Chrome](https://chrome.google.com/webstore/detail/semmosquito/pghhhijpokjijeeemjaafgpbpenodiei)
 
-*Download da versão Firefox em breve*
+[Download da versão Firefox](https://addons.mozilla.org/en-US/firefox/addon/sem-mosquito/)
 
 ## Motivo
 
