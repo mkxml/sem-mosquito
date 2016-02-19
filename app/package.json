@@ -1,0 +1,17 @@
+{
+  "title": "SemMosquito",
+  "name": "sem-mosquito",
+  "version": "1.0.1",
+  "description": "Livre-se dos mosquitos nos sites .gov do Brasil",
+  "main": "firefox.js",
+  "author": "Matheus Kautzmann <kautzmann5@gmail.com>",
+  "engines": {
+    "firefox": ">=38"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mosquitos",
+    "gov",
+    "Brasil"
+  ]
+}

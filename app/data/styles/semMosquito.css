@@ -1,0 +1,4 @@
+/* Evita mostrar os mosquitos ao carregar a página */
+.aegypti {
+  display: none !important;
+}
